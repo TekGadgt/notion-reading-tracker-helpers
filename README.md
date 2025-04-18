@@ -11,8 +11,7 @@ A collection of utilities to help manage your book reading collection in Notion,
   
 - **Book Metadata**
   - Fetches book information from OpenLibrary API
-  - Falls back to Google Books API when needed
-  - Retrieves title, author, page count, and series information
+  - Retrieves title, author, and page count
 
 - **Maintenance Tools**
   - Update book icons based on reading status
